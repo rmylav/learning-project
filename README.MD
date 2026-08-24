@@ -1,5 +1,6 @@
 # learning-project
 
+This is a project I wanted to design for people new to coding and integrating AI in their code. It is intentionally basic and intended for someone to take and build on as needed.
 A simple terminal tool that lets you ask Claude questions and get answers, right from the command line. Built as a first hands-on project for learning how to work with the Anthropic API.
 
 ## What it does
